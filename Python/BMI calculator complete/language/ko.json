@@ -1,0 +1,38 @@
+{
+    "buttons": {
+        "calc": "계산",
+        "config": "설정",
+        "language": "언어",
+        "back": "뒤로"
+    },
+    "colors": {
+        "white": "하얀색",
+        "black": "검은색",
+        "red": "빨간색",
+        "green": "초록색",
+        "blue": "파란색",
+        "cyan": "시안",
+        "yellow": "노란색",
+        "magenta": "마젠타",
+        "gray": "회색",
+        "grey": "회색"
+    },
+    "warnings": {
+        "color_change": "변경 사항은 재시작 후 적용됩니다",
+        "weight_text": "체중 (kg)",
+        "height_text": "키 (cm)"
+    },
+    "results": {
+        "initial": "결과가 여기에 표시됩니다!",
+        "after_result_text": "당신의 BMI는: ",
+        "thinness": "저체중",
+        "normal": "정상",
+        "overweight": "과체중",
+        "obese_I": "비만 I",
+        "obese_II": "비만 II",
+        "obese_III": "비만 III",
+        "nan": "숫자만 입력할 수 있습니다",
+        "negative": "음수를 입력했습니다",
+        "zero": "체중과 키는 0이 될 수 없습니다"
+    }
+}

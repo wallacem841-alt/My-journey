@@ -1,0 +1,21 @@
+{
+    "player": {
+        "name": "Orion",
+        "age": 16,
+        "class": "sorcerer",
+        "level": 1,
+        "inventory": {
+            "gold": 30,
+            "weapon": "oak staff",
+            "armor": "mage robes",
+            "spellbook": [
+                "firebolt",
+                "magic barrier"
+            ],
+            "items": [
+                "mana potion",
+                "healing potion"
+            ]
+        }
+    }
+}

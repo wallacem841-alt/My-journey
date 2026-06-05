@@ -1,0 +1,38 @@
+{
+    "buttons": {
+        "calc": "computare",
+        "config": "configurare",
+        "language": "lingua",
+        "back": "revertere"
+    },
+    "colors": {
+        "white": "albus",
+        "black": "ater",
+        "red": "ruber",
+        "green": "viridis",
+        "blue": "caeruleus",
+        "cyan": "cyaneus",
+        "yellow": "flavus",
+        "magenta": "magenta",
+        "gray": "griseus",
+        "grey": "griseus"
+    },
+    "warnings": {
+        "color_change": "Mutationes post recursus valent",
+        "weight_text": "pondus in kg",
+        "height_text": "altitudo in cm"
+    },
+    "results": {
+        "initial": "Exitus hic!",
+        "after_result_text": "BMI tuus est: ",
+        "thinness": "macritia",
+        "normal": "normalis",
+        "overweight": "pondus superius",
+        "obese_I": "obesitas I",
+        "obese_II": "obesitas II",
+        "obese_III": "obesitas III",
+        "nan": "numeri tantum accipiuntur",
+        "negative": "numerus negativus insertus est",
+        "zero": "pondus vel altitudo 0 esse non potest"
+    }
+}

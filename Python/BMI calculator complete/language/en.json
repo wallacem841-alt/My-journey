@@ -1,0 +1,38 @@
+{
+    "buttons":{
+        "calc": "calculate",
+        "config":"configure",
+        "language":"language",
+        "back": "back"
+    },
+    "colors": {
+        "white": "white",
+        "black": "black",
+        "red": "red",
+        "green": "green",
+        "blue": "blue",
+        "cyan": "cyan",
+        "yellow": "yellow",
+        "magenta": "magenta",
+        "gray": "gray",
+        "grey": "grey"
+    },
+    "warnings": {
+        "color_change": "Changes will take effect after relaunch",
+        "weight_text": "weight in kg",
+        "height_text": "height in cm"       
+    },
+    "results": {
+        "initial": "Results here!",
+        "after_result_text": "Your BMI is: ",
+        "thinness": "thinness",
+        "normal": "normal",
+        "overweight": "overweight",
+        "obese_I": "obese_I",
+        "obese_II": "obese_II",
+        "obese_III": "obese_III",
+        "nan": "only numbers accepted as weight and height",
+        "negative": "You entered a negative number",
+        "zero": "weight or height can't be 0"
+    }
+}

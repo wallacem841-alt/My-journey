@@ -1,0 +1,38 @@
+{
+    "buttons": {
+        "calc": "計算",
+        "config": "設定",
+        "language": "言語",
+        "back": "戻る"
+    },
+    "colors": {
+        "white": "白",
+        "black": "黒",
+        "red": "赤",
+        "green": "緑",
+        "blue": "青",
+        "cyan": "シアン",
+        "yellow": "黄色",
+        "magenta": "マゼンタ",
+        "gray": "グレー",
+        "grey": "グレイ"
+    },
+    "warnings": {
+        "color_change": "変更は再起動後に適用されます",
+        "weight_text": "体重 (kg)",
+        "height_text": "身長 (cm)"
+    },
+    "results": {
+        "initial": "結果はこちら！",
+        "after_result_text": "あなたのBMIは: ",
+        "thinness": "やせすぎ",
+        "normal": "普通",
+        "overweight": "太り気味",
+        "obese_I": "肥満 I",
+        "obese_II": "肥満 II",
+        "obese_III": "肥満 III",
+        "nan": "数字のみ入力できます",
+        "negative": "負の数が入力されました",
+        "zero": "体重または身長は0にできません"
+    }
+}

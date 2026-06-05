@@ -1,0 +1,23 @@
+{
+    "knight": {
+      "gold": 50,
+      "weapon": "iron sword",
+      "armor": "chainmail",
+      "shield": "wooden shield",
+      "items": ["healing potion", "torch"]
+    },
+    "sorcerer": {
+      "gold": 30,
+      "weapon": "oak staff",
+      "armor": "mage robes",
+      "spellbook": ["firebolt", "magic barrier"],
+      "items": ["mana potion", "healing potion"]
+    },
+    "bandit": {
+      "gold": 20,
+      "weapon": "dagger",
+      "armor": "leather vest",
+      "items": ["lockpick", "poison vial", "healing potion"]
+    }
+  }
+  

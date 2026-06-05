@@ -1,0 +1,27 @@
+ScreenManager:
+    MainPage:
+    SecondPage:
+
+<MainPage>:
+    name: "main"
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            text: "This is the Main Page"
+            font_size: 24
+        Button:
+            text: "Go to Second Page"
+            font_size: 18
+            on_release: app.root.current = "second"
+
+<SecondPage>:
+    name: "second"
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            text: "This is the Second Page"
+            font_size: 24
+        Button:
+            text: "Go Back to Main Page"
+            font_size: 18
+            on_release: app.root.current = "main"

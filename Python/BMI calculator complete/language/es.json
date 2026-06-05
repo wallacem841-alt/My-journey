@@ -1,0 +1,38 @@
+{
+    "buttons": {
+        "calc": "calcular",
+        "config": "configurar",
+        "language": "idioma",
+        "back": "volver"
+    },
+    "colors": {
+        "white": "blanco",
+        "black": "negro",
+        "red": "rojo",
+        "green": "verde",
+        "blue": "azul",
+        "cyan": "cian",
+        "yellow": "amarillo",
+        "magenta": "magenta",
+        "gray": "gris",
+        "grey": "gris"
+    },
+    "warnings": {
+        "color_change": "Los cambios surtirán efecto al reiniciar",
+        "weight_text": "peso en kg",
+        "height_text": "altura en cm"
+    },
+    "results": {
+        "initial": "¡Resultados aquí!",
+        "after_result_text": "Tu IMC es: ",
+        "thinness": "delgadez",
+        "normal": "normal",
+        "overweight": "sobrepeso",
+        "obese_I": "obesidad I",
+        "obese_II": "obesidad II",
+        "obese_III": "obesidad III",
+        "nan": "solo se aceptan números",
+        "negative": "Ingresaste un número negativo",
+        "zero": "el peso o la altura no pueden ser 0"
+    }
+}
