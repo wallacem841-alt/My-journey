@@ -1,0 +1,12 @@
+1. The program must handle Intel properly with images, rating, chapters and episodes.
+Also status such as reading/watching, read/watched.
+
+2. The program must be responsive at 20s max.
+
+3. The program can be accessible through app but not in the first version.
+
+4. The program can be accessible via web but not in the first version.
+
+5. The program must make back ups of the data via web.
+
+6. The program must allow for creation of anime pages similar to Wikipedia.
